@@ -1,3 +1,4 @@
+# Control Structure - Task 2
 def calculate_ticket_cost(category, num_tickets):
     prices = {
         'silver': 100,

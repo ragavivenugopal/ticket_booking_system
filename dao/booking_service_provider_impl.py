@@ -1,3 +1,5 @@
+# Interface/Abstract Class - Task 8
+# Collection - Task 10
 from dao.booking_service_provider import IBookingSystemServiceProvider
 from dao.event_service_provider_impl import EventServiceProviderImpl
 from exception.event_not_found_exception import EventNotFoundException

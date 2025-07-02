@@ -1,3 +1,4 @@
+# Control Structure - Task 1
 def check_ticket_availability(available_tickets, booking_tickets):
     if available_tickets >= booking_tickets:
         remaining = available_tickets - booking_tickets

@@ -1,3 +1,5 @@
+# Class and Object - Task 4
+# Has-A Relation/Association - Task 7
 from abc import ABC, abstractmethod
 from datetime import datetime
 from entity.venue import Venue

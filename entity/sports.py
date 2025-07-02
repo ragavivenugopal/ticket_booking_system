@@ -1,4 +1,5 @@
-# Task 5
+# Class and Object - Task 4
+# Inheritance and Polymorphism - Task 5
 from entity.event import Event
 
 

@@ -1,3 +1,6 @@
+# Class and Object - Task 4
+# Has-A Relation/Association - Task 7
+# Collection - Task 10
 from datetime import datetime
 
 

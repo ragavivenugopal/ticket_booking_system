@@ -1,4 +1,4 @@
-# Task 4
+# Class and Object - Task 4
 class Customer:
     def __init__(self, customer_name="", email="", phone_number=""):
         self.__customer_name = customer_name

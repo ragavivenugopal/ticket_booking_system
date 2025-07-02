@@ -1,4 +1,4 @@
-# Task 4
+# Class and Object - Task 4
 class Venue:
     def __init__(self, venue_name="", address=""):
         self.__venue_name = venue_name

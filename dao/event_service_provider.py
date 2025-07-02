@@ -1,3 +1,4 @@
+# Abstraction - Task 6
 from abc import ABC, abstractmethod
 
 
